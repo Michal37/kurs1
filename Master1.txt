@@ -1,3 +1,2 @@
 1. Pierwszy wpis w pliku Master1.
-2. Drugi wpis w pliku Master1.
-3. Trzeci wpis w pliku Master1.
+1. Drugi wpis w pliku Master1.
