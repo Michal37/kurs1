@@ -1,3 +1,11 @@
 1. Pierwszy wpis w pliku Master1.
 2. Drugi wpis w pliku Master1.
 3. Zmiana dokonana na gałęzi branch1.
+
+1
+2
+3
+4
+5
+6
+
