@@ -1,6 +1,0 @@
-1. Pierwszy wpis w pliku Master3.
-2. Drugi wpis w pliku Master3.
-
-3.To jest zmianan na branchu master.
-
-4.To jest zmiana na b2.
